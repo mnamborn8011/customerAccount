@@ -1,0 +1,107 @@
+{
+"customerAccount": {
+    "balance": {
+      "current": 1029.15,
+      "totalAmount": 0,
+      "totalBalance": 1029.15
+    },
+    "aging": {
+      "current": 1029.15,
+      "under30": 0,
+      "under60": 0,
+      "under90": 0,
+      "over90": 0
+    },
+    "pendingPayment": {
+      "paymentId": 1023,
+      "uid": "2948cd2c-7d1e-4616-b0eb-865d05806b76",
+      "amount": 77
+    },
+    "payments": [
+      {
+        "paymentId": 896,
+        "uid": "63c8eeb1-8370-4ec7-b2aa-cd1e0ba5aad3",
+        "email": "blahblah@gmail.com",
+        "firstName": "M",
+        "lastName": "B",
+        "amount": 321,
+        "total": 321,
+        "invoices": []
+      },
+      {
+        "paymentId": 897,
+        "uid": "754a8a42-423d-45ff-93a7-bcd92b639ad4",
+        "email": "blahblah@gmail.com",
+        "firstName": "M",
+        "lastName": "B",
+        "amount": 541,
+        "total": 541,
+        "invoices": []
+      },
+      {
+        "paymentId": 898,
+        "uid": "4efe8298-6acb-4c3a-b4fe-7eea1f4022c1",
+        "email": "blahblah@gmail.com",
+        "firstName": "M",
+        "lastName": "B",
+        "amount": 50.95,
+        "total": 50.95,
+        "invoices": [
+          {
+            "externalId": "34249825",
+            "amount": 50.95,
+            "amountDue": 50.95
+          }
+        ]
+      },
+      {
+        "paymentId": 899,
+        "uid": "dea9a439-bba6-4b77-9443-5b7670fa0545",
+        "email": "blahblah@gmail.com",
+        "firstName": "M",
+        "lastName": "B",
+        "amount": 14676.41,
+        "total": 14676.41,
+        "invoices": [
+          {
+            "externalId": "34242024",
+            "amount": 14676.41,
+            "amountDue": 14676.41
+          }
+        ]
+      },
+      {
+        "paymentId": 900,
+        "uid": "a17f6fcc-b1d7-41e6-adc1-1f3077c2cea8",
+        "email": "blahblah@gmail.com",
+        "firstName": "M",
+        "lastName": "B",
+        "amount": 14676.41,
+        "total": 14676.41,
+        "invoices": [
+          {
+            "externalId": "34242024",
+            "amount": 14676.41,
+            "amountDue": 14676.41
+          }
+        ]
+      },
+      {
+        "paymentId": 901,
+        "uid": "f051fba0-ea47-4ffe-bedd-7afa734aca0d",
+        "email": "blahblah@gmail.com",
+        "firstName": "M",
+        "lastName": "B",
+        "amount": 314.15,
+        "total": 314.15,
+        "invoices": [
+          {
+            "externalId": "2559856",
+            "amount": 314.15,
+            "amountDue": 314.15
+          }
+        ]
+      }
+    ]
+  }
+}
